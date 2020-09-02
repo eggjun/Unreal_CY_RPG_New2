@@ -2170,22 +2170,3 @@ Script Stack (0 frames):
 [2020.09.02-08.29.08:301][631]LogOutputDevice: Error: [Callstack] 0x00007ffbb146ced1 ntdll.dll!UnknownFunction []
 [2020.09.02-08.29.08:301][631]LogOutputDevice: Error: 
 [2020.09.02-08.29.08:303][631]LogStats:                SubmitErrorReport -  0.000 s
-[2020.09.02-08.29.37:615][631]LogStats:                    SendNewReport - 29.312 s
-[2020.09.02-08.29.37:615][631]LogStats:             FDebug::EnsureFailed - 29.891 s
-[2020.09.02-08.29.37:635][631]Cmd: TRANSACTION UNDO
-[2020.09.02-08.29.37:635][631]LogEditorTransaction: Undo Rename Widget
-[2020.09.02-08.34.28:588][887]BlueprintLog: New page: Compile BW_介面
-[2020.09.02-08.34.28:645][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
-[2020.09.02-08.34.29:110][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_介面" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_介面.uasset" SILENT=true
-[2020.09.02-08.34.29:138][936]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_介面DAD2A1A54497ED4F1505E49C746FB1ED.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_介面.uasset'
-[2020.09.02-08.34.29:153][936]AssetCheck: New page: Asset Save: BW_介面
-[2020.09.02-08.34.29:153][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_介面.BW_介面
-[2020.09.02-08.34.30:311][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
-[2020.09.02-08.40.00:513][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
-[2020.09.02-08.40.02:824][695]LogRenderer: Reallocating scene render targets to support 1212x708 Format 10 NumSamples 1 (Frame:268805).
-[2020.09.02-08.40.08:258][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
-[2020.09.02-08.40.08:951][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.09.02-08.40.08:995][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
-[2020.09.02-08.40.09:048][396]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡196BFEA64AB5A9C843B2949D783D547E.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
-[2020.09.02-08.40.09:091][396]AssetCheck: New page: Asset Save: 遊戲關卡
-[2020.09.02-08.40.09:091][396]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
