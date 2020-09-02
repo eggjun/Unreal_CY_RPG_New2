@@ -1044,3 +1044,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-06.19.16:812][954]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼3AEC64C549706F4C7E6FE382D57E0A85.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
 [2020.09.02-06.19.16:825][954]AssetCheck: New page: Asset Save: BP_吸血鬼
 [2020.09.02-06.19.16:825][954]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.02-06.20.11:545][365]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.02-06.20.11:823][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.09.02-06.20.12:348][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.02-06.20.12:402][416]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼C21790044C415686F65D40AA460B9691.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.02-06.20.12:416][416]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.02-06.20.12:416][416]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.02-06.20.13:454][540]BlueprintLog: New page: Compile BP_鑰匙
+[2020.09.02-06.20.13:722][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.09.02-06.20.13:898][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_鑰匙" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset" SILENT=true
+[2020.09.02-06.20.13:926][553]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_鑰匙983967804DBD9D267EC903BE77B38DBF.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset'
+[2020.09.02-06.20.13:939][553]AssetCheck: New page: Asset Save: BP_鑰匙
+[2020.09.02-06.20.13:939][553]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_鑰匙.BP_鑰匙
+[2020.09.02-06.20.14:846][658]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.02-06.20.15:120][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.09.02-06.20.15:598][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.02-06.20.15:643][708]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍522548C448311809323315905617F62E.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.02-06.20.15:654][708]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.02-06.20.15:654][708]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.02-06.20.16:589][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-06.20.16:630][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.09.02-06.20.16:683][815]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡A9D448E343F8009677078CA4FE73724B.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-06.20.16:725][815]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-06.20.16:725][815]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-06.23.06:615][915]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3088183b-517c-4fcf-9495-f857c291c84b}.
+[2020.09.02-06.23.06:615][915]LogTemp: Resetting audio stream to device id 
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Is Default: Yes
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: Channel Order:
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.02-06.23.06:635][915]LogAudioMixer: Display: 1: FrontRight
+[2020.09.02-06.54.42:041][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-06.54.42:078][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.09.02-06.54.42:134][896]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡485D192644C54C1BDB9E31901A45D2F8.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-06.54.42:173][896]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-06.54.42:173][896]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.02.52:801][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.02.52:839][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.09.02-07.02.52:893][266]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡0F5DB0E5459E53979132F1A39B5423AC.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.02.52:935][266]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.02.52:935][266]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.02.53:874][375]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.02-07.02.54:147][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.09.02-07.02.54:661][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.02-07.02.54:705][426]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍88798AF6402DC09F2A6BA6A233C44620.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.02-07.02.54:716][426]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.02-07.02.54:716][426]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.02-07.02.55:907][567]BlueprintLog: New page: Compile BP_鑰匙
+[2020.09.02-07.02.56:169][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.09.02-07.02.56:560][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_鑰匙" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset" SILENT=true
+[2020.09.02-07.02.56:588][606]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_鑰匙B14AFD9C464411F69D0357B4AF89F1B4.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset'
+[2020.09.02-07.02.56:599][606]AssetCheck: New page: Asset Save: BP_鑰匙
+[2020.09.02-07.02.56:599][606]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_鑰匙.BP_鑰匙
+[2020.09.02-07.02.57:640][713]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.02-07.02.57:923][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.09.02-07.02.58:244][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.02-07.02.58:299][740]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼1B82A8584F790014E77F2A87011FA341.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.02-07.02.58:312][740]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.02-07.02.58:312][740]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.02-07.02.59:303][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.02.59:343][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.09.02-07.02.59:392][854]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡470CB0334DC7DB112980A79792E4B138.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.02.59:432][854]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.02.59:432][854]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
