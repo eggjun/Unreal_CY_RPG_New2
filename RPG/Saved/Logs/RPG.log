@@ -1111,3 +1111,204 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-07.02.59:392][854]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡470CB0334DC7DB112980A79792E4B138.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
 [2020.09.02-07.02.59:432][854]AssetCheck: New page: Asset Save: 遊戲關卡
 [2020.09.02-07.02.59:432][854]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.18.48:266][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\IM\Downloads\吸血鬼死亡.fbx)
+[2020.09.02-07.18.48:277][765]LogFbx: Loading FBX Scene from C:\Users\IM\Downloads\吸血鬼死亡.fbx
+[2020.09.02-07.18.48:294][765]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.02-07.18.59:242][765]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(0) Hips
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(1) Spine
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(2) Spine1
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(3) Spine2
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(4) Neck
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(5) Head
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(8) LeftArm
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(10) LeftHand
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.09.02-07.18.59:280][765]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(31) RightShoulder
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(32) RightArm
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(33) RightForeArm
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(34) RightHand
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(56) LeftLeg
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(57) LeftFoot
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(61) RightLeg
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(62) RightFoot
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(63) RightToeBase
+[2020.09.02-07.18.59:281][765]LogFbx: SortedLinks :(64) RightToe_End
+[2020.09.02-07.18.59:281][765]LogFbx: Parsing AnimStack mixamo.com
+[2020.09.02-07.18.59:289][765]LogLinker: Failed to load '/Game/動畫/吸血鬼死亡': Can't find file.
+[2020.09.02-07.18.59:289][765]LogLinker: Failed to load '/Game/動畫/吸血鬼死亡': Can't find file.
+[2020.09.02-07.19.08:775][765]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/動畫/吸血鬼死亡.吸血鬼死亡
+[2020.09.02-07.19.08:775][765]LogAnimationCompression: Recompressing (AnimSequence /Game/動畫/吸血鬼死亡.吸血鬼死亡) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.02-07.19.08:993][765]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\IM\Downloads\吸血鬼受傷.fbx)
+[2020.09.02-07.19.09:015][765]LogFbx: Loading FBX Scene from C:\Users\IM\Downloads\吸血鬼受傷.fbx
+[2020.09.02-07.19.09:033][765]LogFbx: FBX Scene Loaded Succesfully
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(0) Hips
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(1) Spine
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(2) Spine1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(3) Spine2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(4) Neck
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(5) Head
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(8) LeftArm
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(10) LeftHand
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(31) RightShoulder
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(32) RightArm
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(33) RightForeArm
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(34) RightHand
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(56) LeftLeg
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(57) LeftFoot
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(61) RightLeg
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(62) RightFoot
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(63) RightToeBase
+[2020.09.02-07.19.09:037][765]LogFbx: SortedLinks :(64) RightToe_End
+[2020.09.02-07.19.09:038][765]LogFbx: Parsing AnimStack mixamo.com
+[2020.09.02-07.19.09:038][765]LogLinker: Failed to load '/Game/動畫/吸血鬼受傷': Can't find file.
+[2020.09.02-07.19.09:038][765]LogLinker: Failed to load '/Game/動畫/吸血鬼受傷': Can't find file.
+[2020.09.02-07.19.09:397][765]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/動畫/吸血鬼受傷.吸血鬼受傷
+[2020.09.02-07.19.09:397][765]LogAnimationCompression: Recompressing (AnimSequence /Game/動畫/吸血鬼受傷.吸血鬼受傷) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.02-07.19.12:539][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.09.02-07.19.12:544][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/地圖/遊戲關卡' took 0.045
+[2020.09.02-07.19.12:545][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/動畫/吸血鬼死亡] ([1] browsable assets)...
+[2020.09.02-07.19.12:553][ 15]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/動畫/吸血鬼死亡.吸血鬼死亡]
+[2020.09.02-07.19.12:553][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/動畫/吸血鬼死亡]
+[2020.09.02-07.19.12:553][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼死亡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/Autosaves/Game/動畫/吸血鬼死亡_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.09.02-07.19.12:593][ 15]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼死亡_Auto2097769B54E71101AB81FEFA3FA1C469B.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/Autosaves/Game/動畫/吸血鬼死亡_Auto2.uasset'
+[2020.09.02-07.19.12:594][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/動畫/吸血鬼受傷] ([1] browsable assets)...
+[2020.09.02-07.19.12:602][ 15]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/動畫/吸血鬼受傷.吸血鬼受傷]
+[2020.09.02-07.19.12:602][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/動畫/吸血鬼受傷]
+[2020.09.02-07.19.12:602][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼受傷" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/Autosaves/Game/動畫/吸血鬼受傷_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.09.02-07.19.12:617][ 15]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼受傷_Auto27BE822044A6AED0EDCA497947995E27D.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/Autosaves/Game/動畫/吸血鬼受傷_Auto2.uasset'
+[2020.09.02-07.19.12:618][ 15]LogFileHelpers: Auto-saving content packages took 0.073
+[2020.09.02-07.19.19:761][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼受傷" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼受傷.uasset" SILENT=true
+[2020.09.02-07.19.19:769][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼受傷000F802043F24245FA8BCCB59AC03DF4.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼受傷.uasset'
+[2020.09.02-07.19.19:773][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼死亡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼死亡.uasset" SILENT=true
+[2020.09.02-07.19.19:794][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼死亡2DE3DD3247D49D500CA705B279BD71DA.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼死亡.uasset'
+[2020.09.02-07.19.19:806][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼死亡_Montage" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼死亡_Montage.uasset" SILENT=true
+[2020.09.02-07.19.19:818][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼死亡_Montage52A2FD19447F974D8CBECF8DAC1AA49B.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼死亡_Montage.uasset'
+[2020.09.02-07.19.19:828][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫/吸血鬼受傷_Montage" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼受傷_Montage.uasset" SILENT=true
+[2020.09.02-07.19.19:840][670]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/吸血鬼受傷_Montage25B42145450854C706B3A1BACD10E6FF.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/動畫/吸血鬼受傷_Montage.uasset'
+[2020.09.02-07.19.19:875][670]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-07.19.19:875][670]LogContentValidation: Display: Validating AnimSequence /Game/動畫/吸血鬼受傷.吸血鬼受傷
+[2020.09.02-07.19.19:875][670]LogContentValidation: Display: Validating AnimSequence /Game/動畫/吸血鬼死亡.吸血鬼死亡
+[2020.09.02-07.19.19:875][670]LogContentValidation: Display: Validating AnimMontage /Game/動畫/吸血鬼死亡_Montage.吸血鬼死亡_Montage
+[2020.09.02-07.19.19:875][670]LogContentValidation: Display: Validating AnimMontage /Game/動畫/吸血鬼受傷_Montage.吸血鬼受傷_Montage
+[2020.09.02-07.19.23:295][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.19.23:366][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.09.02-07.19.23:421][958]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡519CE1534B2DE94CDCEECC9B7656C571.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.19.23:461][958]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.19.23:461][958]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.19.25:034][141]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.02-07.19.25:318][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.09.02-07.19.25:786][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.02-07.19.25:831][188]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍76B141554055F43121F77A970256709F.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.02-07.19.25:843][188]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.02-07.19.25:843][188]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.02-07.19.26:883][311]BlueprintLog: New page: Compile BP_鑰匙
+[2020.09.02-07.19.27:146][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.09.02-07.19.27:454][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_鑰匙" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset" SILENT=true
+[2020.09.02-07.19.27:482][339]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_鑰匙C12778CB4BAA96AA82F36FA794D084B5.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset'
+[2020.09.02-07.19.27:493][339]AssetCheck: New page: Asset Save: BP_鑰匙
+[2020.09.02-07.19.27:493][339]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_鑰匙.BP_鑰匙
+[2020.09.02-07.19.29:466][559]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.02-07.19.29:753][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.09.02-07.19.30:254][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.02-07.19.30:309][608]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼5957E5C84AB5B1605CF52FBC073CEE70.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.02-07.19.30:319][608]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.02-07.19.30:320][608]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.02-07.19.31:411][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.19.31:452][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.09.02-07.19.31:529][735]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡0E6BBBF443D56916483B8CB64B33F68B.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.19.31:572][735]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.19.31:572][735]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
