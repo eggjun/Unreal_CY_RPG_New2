@@ -1438,3 +1438,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.02-07.38.39:627][433]LogFileHelpers: Saving map '遊戲關卡' took 0.120
 [2020.09.02-07.38.39:638][433]AssetCheck: New page: Asset Save: 遊戲關卡
 [2020.09.02-07.38.39:638][433]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.40.09:007][777]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.02-07.40.09:324][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.09.02-07.40.09:719][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.02-07.40.09:759][813]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍924D163A46FFD3FADA12638F53FB4684.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.02-07.40.09:772][813]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.02-07.40.09:772][813]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.02-07.40.11:226][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.40.11:271][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.09.02-07.40.11:325][983]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡881BAF3348DCD37E835CAB95AFB3593D.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.40.11:365][983]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.40.11:365][983]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.46.32:390][890]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\IM\Downloads\環境音.wav)
+[2020.09.02-07.46.32:432][890]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 環境音...
+[2020.09.02-07.46.32:432][890]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/音效/環境音.環境音 will be modified from 40 to 40.
+[2020.09.02-07.46.32:980][890]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4128768 while cooking SoundWave /Game/音效/環境音.環境音.
+[2020.09.02-07.46.37:869][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\IM\Desktop\鑰匙音效.wav)
+[2020.09.02-07.46.44:777][947]LogSlate: Window 'Message' being destroyed
+[2020.09.02-07.46.44:781][947]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave 鑰匙音效...
+[2020.09.02-07.46.44:781][947]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/音效/鑰匙音效.鑰匙音效 will be modified from 40 to 40.
+[2020.09.02-07.46.44:855][947]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 22438 while cooking SoundWave /Game/音效/鑰匙音效.鑰匙音效.
+[2020.09.02-07.46.49:038][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/音效/鑰匙音效" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/音效/鑰匙音效.uasset" SILENT=true
+[2020.09.02-07.46.49:045][434]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/鑰匙音效8FD60E884CF81C8932EC0C877914DDE1.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/音效/鑰匙音效.uasset'
+[2020.09.02-07.46.49:051][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/音效/環境音" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/音效/環境音.uasset" SILENT=true
+[2020.09.02-07.46.49:059][434]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/環境音4C8165464DFCF42C418195A95292ABB4.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/音效/環境音.uasset'
+[2020.09.02-07.46.49:080][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.02-07.46.49:080][434]LogContentValidation: Display: Validating SoundWave /Game/音效/鑰匙音效.鑰匙音效
+[2020.09.02-07.46.49:080][434]LogContentValidation: Display: Validating SoundWave /Game/音效/環境音.環境音
+[2020.09.02-07.47.06:019][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.02-07.47.06:080][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.09.02-07.47.06:139][461]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡F9B82ABB4AC7E1E0FF6AEB8C7E9A40F6.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.02-07.47.06:180][461]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.02-07.47.06:180][461]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.02-07.47.07:558][621]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.02-07.47.07:872][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.09.02-07.47.08:244][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.02-07.47.08:289][658]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍E9E21EBF47C0DD8A82D23DAAD1034DBA.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.02-07.47.08:301][658]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.02-07.47.08:301][658]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.02-07.47.09:249][770]BlueprintLog: New page: Compile BP_鑰匙
+[2020.09.02-07.47.09:550][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.09.02-07.47.10:111][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_鑰匙" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset" SILENT=true
+[2020.09.02-07.47.10:138][829]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_鑰匙9EAD57D9401E6EF1952FB99D1071C123.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_鑰匙.uasset'
+[2020.09.02-07.47.10:151][829]AssetCheck: New page: Asset Save: BP_鑰匙
+[2020.09.02-07.47.10:152][829]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_鑰匙.BP_鑰匙
+[2020.09.02-07.47.11:183][937]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.02-07.47.11:503][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.09.02-07.47.11:778][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.02-07.47.11:836][962]LogSavePackage: Moving '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼BDADE094402070151D23BBB2A13559F5.tmp' to '../../../../../../Users/IM/Desktop/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.02-07.47.11:850][962]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.02-07.47.11:850][962]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
