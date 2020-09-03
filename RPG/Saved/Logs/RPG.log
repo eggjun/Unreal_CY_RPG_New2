@@ -2876,3 +2876,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-04.04.05:953][759]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡1D7595204C5C8CDA913DBC97FF84FC6C.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
 [2020.09.03-04.04.05:989][759]AssetCheck: New page: Asset Save: 遊戲關卡
 [2020.09.03-04.04.05:989][759]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.05.50:527][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.05.50:560][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.09.03-04.05.50:605][343]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡63B121054A62E2290A5F3C8239BBB387.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.05.50:641][343]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.05.50:641][343]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.05.51:774][473]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.05.52:062][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.09.03-04.05.52:419][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.05.52:478][502]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼9CAC414A4F570256CA34D2855D8EC78C.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.05.52:490][502]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.05.52:491][502]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.05.53:774][646]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-04.05.53:817][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.09.03-04.05.54:461][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-04.05.54:472][710]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面D8FE1FD04ADFE1C52AD2F4AFDC4068D8.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-04.05.54:482][710]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-04.05.54:482][710]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-04.05.55:694][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.05.55:734][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.09.03-04.05.55:777][850]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡2C1E90FC4D19B26A2B4A11BE5D63631A.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.05.55:814][850]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.05.55:814][850]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.09.36:905][364]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.09.37:191][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.09.03-04.09.37:676][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.09.37:732][406]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼B0D266B343E4B03851E3E8978E17642B.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.09.37:745][406]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.09.37:745][406]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.09.50:392][906]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.09.50:680][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.09.03-04.09.51:125][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.09.51:181][943]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼DABAECE444C834917474B5B01CCAB2F6.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.09.51:194][943]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.09.51:194][943]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.09.53:022][145]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-04.09.53:066][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.09.03-04.09.53:499][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-04.09.53:514][184]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面D20D81514F84974193A1DE85A1647AD7.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-04.09.53:524][184]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-04.09.53:524][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-04.09.55:316][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.09.55:355][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.09.03-04.09.55:403][392]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡A105921E40D414A78796959F3445B71F.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.09.55:440][392]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.09.55:440][392]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.09.58:665][778]LogEditorViewport: Clicking on Actor (LMB): BP_鑰匙_C (BP_鑰匙4)
+[2020.09.03-04.10.20:589][256]LogEditorViewport: Clicking on Actor (LMB): BP_鑰匙_C (BP_鑰匙5)
+[2020.09.03-04.10.30:881][387]LogEditorViewport: Clicking on Actor (LMB): BP_鑰匙_C (BP_鑰匙3)
+[2020.09.03-04.10.37:890][125]LogEditorViewport: Clicking on Actor (LMB): BP_鑰匙_C (BP_鑰匙2)
+[2020.09.03-04.11.29:089][687]LogEditorViewport: Clicking on Actor (LMB): BP_殭屍_C (BP_殭屍)
+[2020.09.03-04.11.33:844][147]LogEditorViewport: Clicking Background
+[2020.09.03-04.11.55:222][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.11.55:267][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.09.03-04.11.55:323][428]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡17392E1B4F5D4DC2A4830298550BD9E4.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.11.55:360][428]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.11.55:360][428]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.11.56:692][580]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.11.56:980][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.09.03-04.11.57:428][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.11.57:521][619]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼781C64E548FFC806CF0CB0B05AA81545.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.11.57:534][619]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.11.57:534][619]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.11.58:901][776]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-04.11.58:944][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.09.03-04.11.59:420][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-04.11.59:431][822]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面488FD5134B207BD66E58A4A2BBBCE162.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-04.11.59:440][822]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-04.11.59:440][822]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-04.12.02:188][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.09.03-04.12.03:381][286]LogEditorViewport: Clicking Background
+[2020.09.03-04.12.13:487][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.12.13:523][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-04.12.13:576][494]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡430BDFB54ED94249D970958DF57D8FD6.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.12.13:612][494]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.12.13:612][494]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
