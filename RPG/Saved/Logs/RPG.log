@@ -2565,3 +2565,314 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-03.55.02:782][973]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡F05CF9F342EF048716737C8FB150EEF6.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
 [2020.09.03-03.55.02:818][973]AssetCheck: New page: Asset Save: 遊戲關卡
 [2020.09.03-03.55.02:818][973]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-03.55.24:762][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-03.55.24:802][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.09.03-03.55.24:844][322]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡E3E6EAB440156AE49DCA8F9FBCC3C846.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-03.55.24:881][322]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-03.55.24:881][322]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-03.55.37:176][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.03-03.55.37:197][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.55.37:197][794]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午7:55:37)
+[2020.09.03-03.55.37:197][794]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.55.37:204][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007085s)
+[2020.09.03-03.55.37:205][794]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-03.55.37:205][794]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2020.09.03-03.55.37:205][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007952s)
+[2020.09.03-03.55.37:239][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.55.37:240][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.55.37:240][794]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.55.37:240][794]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.55.37:241][794]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.03-03.55.37:243][794]LogInit: FAudioDevice initialized.
+[2020.09.03-03.55.37:252][794]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.55.37:258][794]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-11.55.37
+[2020.09.03-03.55.37:258][794]LogWorld: Bringing up level for play took: 0.005071
+[2020.09.03-03.55.37:258][794]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.09.03-03.55.37:261][794]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 0.416
+[2020.09.03-03.55.46:441][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.55.46:459][552]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.55.46:481][552]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.55.46:481][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.55.46:481][552]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.55.46:481][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.55.46:481][552]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.55.46:482][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.55.46:496][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.55.46:502][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.55.46:537][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.55.46:546][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.55.46:550][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.09.03-03.55.46:569][553]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.09.03-03.56.02:250][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.56.02:250][410]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午7:56:02)
+[2020.09.03-03.56.02:250][410]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.56.02:257][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007029s)
+[2020.09.03-03.56.02:258][410]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-03.56.02:258][410]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2020.09.03-03.56.02:258][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007909s)
+[2020.09.03-03.56.02:294][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.56.02:296][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.56.02:296][410]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.56.02:296][410]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.56.02:297][410]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.03-03.56.02:299][410]LogInit: FAudioDevice initialized.
+[2020.09.03-03.56.02:350][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.56.02:350][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.56.02:356][410]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-11.56.02
+[2020.09.03-03.56.02:357][410]LogWorld: Bringing up level for play took: 0.005715
+[2020.09.03-03.56.02:357][410]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.09.03-03.56.02:381][410]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.464
+[2020.09.03-03.56.02:441][412]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.03-03.56.10:201][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.56.10:214][880]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.56.10:234][880]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.56.10:234][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.56.10:234][880]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.56.10:247][880]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-03.56.10:252][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.56.10:252][880]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.56.10:253][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.56.10:259][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.56.10:265][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.56.10:299][880]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.56.10:325][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.09.03-03.56.10:337][881]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.09.03-03.57.04:224][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.09.03-03.57.04:248][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-03.57.04:263][418]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面4116803D47CBBFDDEBD0E0993138BA89.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-03.57.04:274][418]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-03.57.04:274][418]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-03.57.05:128][517]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-03.57.05:171][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.09.03-03.57.05:665][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-03.57.05:677][564]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面0181F9C24B486D5DAC916F9CDFA2CECF.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-03.57.05:687][564]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-03.57.05:687][564]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-03.57.07:861][813]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-03.57.07:882][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.57.07:882][813]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午7:57:07)
+[2020.09.03-03.57.07:882][813]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.57.07:889][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006924s)
+[2020.09.03-03.57.07:890][813]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-03.57.07:890][813]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2020.09.03-03.57.07:890][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007695s)
+[2020.09.03-03.57.07:929][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.57.07:931][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.57.07:931][813]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.57.07:931][813]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.57.07:932][813]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.03-03.57.07:933][813]LogInit: FAudioDevice initialized.
+[2020.09.03-03.57.07:984][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.57.07:984][813]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.57.07:990][813]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-11.57.07
+[2020.09.03-03.57.07:990][813]LogWorld: Bringing up level for play took: 0.005819
+[2020.09.03-03.57.07:991][813]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.09.03-03.57.07:995][813]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.85
+[2020.09.03-03.57.52:620][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.57.52:626][686]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.57.52:648][686]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.57.52:648][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.57.52:648][686]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.57.52:662][686]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-03.57.52:666][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.57.52:666][686]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.57.52:667][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.57.52:671][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.57.52:677][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.57.52:712][686]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.57.52:738][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.09.03-03.57.52:754][687]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.09.03-03.59.19:116][371]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-03.59.19:160][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.09.03-03.59.19:684][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-03.59.19:696][423]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面9A4FEE394411BA6DE9E715BD95A3D45A.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-03.59.19:707][423]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-03.59.19:707][423]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-03.59.21:583][641]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-03.59.21:604][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-03.59.21:604][641]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午7:59:21)
+[2020.09.03-03.59.21:604][641]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.59.21:611][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006855s)
+[2020.09.03-03.59.21:612][641]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-03.59.21:612][641]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2020.09.03-03.59.21:612][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007620s)
+[2020.09.03-03.59.21:650][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-03.59.21:652][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-03.59.21:652][641]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-03.59.21:652][641]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-03.59.21:653][641]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.03-03.59.21:654][641]LogInit: FAudioDevice initialized.
+[2020.09.03-03.59.21:688][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.59.21:688][641]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-03.59.21:693][641]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-11.59.21
+[2020.09.03-03.59.21:694][641]LogWorld: Bringing up level for play took: 0.005685
+[2020.09.03-03.59.21:694][641]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.09.03-03.59.21:698][641]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 0.853
+[2020.09.03-03.59.39:271][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.59.39:276][802]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-03.59.39:298][802]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-03.59.39:298][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-03.59.39:298][802]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-03.59.39:312][802]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-03.59.39:316][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.59.39:316][802]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-03.59.39:317][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.59.39:323][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-03.59.39:328][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-03.59.39:364][802]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-03.59.39:387][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.09.03-03.59.39:402][803]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.09.03-03.59.41:818][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-03.59.41:855][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-03.59.41:898][ 83]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡1CC4D3314AE2FF4A8A62D5978541CE73.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-03.59.41:934][ 83]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-03.59.41:934][ 83]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.00.27:066][416]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.00.27:354][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.09.03-04.00.28:245][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.00.28:305][512]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼4DCE9C124D6D9E884BEA43B781472FBC.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.00.28:319][512]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.00.28:319][512]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.00.43:217][284]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.00.43:507][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.09.03-04.00.43:861][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.00.43:951][316]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼5481C95B441FFB2AF9089CBF49FE27D3.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.00.43:965][316]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.00.43:965][316]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.01.15:467][891]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.01.15:829][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.09.03-04.01.16:196][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.01.16:250][924]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼7A113A1940748AEEE4F50885BE2AFB7C.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.01.16:262][924]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.01.16:262][924]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.01.19:348][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.09.03-04.02.18:742][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-04.02.18:765][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.02.18:821][298]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼B44C2C3D4627BCCA1AC5A89B81465B0E.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.02.18:834][298]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.02.18:834][298]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.02.20:744][523]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-04.02.21:031][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.09.03-04.02.21:331][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-04.02.21:387][543]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼B4092F8440C3B26259E5E481CFF99915.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-04.02.21:400][543]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-04.02.21:400][543]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-04.02.22:552][671]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-04.02.22:595][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.09.03-04.02.23:140][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-04.02.23:154][723]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面E8748ADF4A9572208837A387A7C33C7C.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-04.02.23:164][723]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-04.02.23:164][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-04.02.23:972][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.02.24:009][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.09.03-04.02.24:056][815]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡D4DAC51B47C766949902C4B8D97BDBC6.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.02.24:093][815]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.02.24:093][815]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-04.02.26:236][ 63]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-04.02.26:257][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-04.02.26:257][ 63]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午8:02:26)
+[2020.09.03-04.02.26:257][ 63]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.02.26:264][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006872s)
+[2020.09.03-04.02.26:265][ 63]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-04.02.26:265][ 63]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.09.03-04.02.26:265][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007642s)
+[2020.09.03-04.02.26:300][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-04.02.26:302][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-04.02.26:302][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-04.02.26:302][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-04.02.26:303][ 63]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.03-04.02.26:304][ 63]LogInit: FAudioDevice initialized.
+[2020.09.03-04.02.26:342][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-04.02.26:342][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-04.02.26:348][ 63]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-12.02.26
+[2020.09.03-04.02.26:349][ 63]LogWorld: Bringing up level for play took: 0.005844
+[2020.09.03-04.02.26:349][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.09.03-04.02.26:353][ 63]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.492
+[2020.09.03-04.03.52:957][910]LogNet: Browse: /Game/地圖/遊戲關卡
+[2020.09.03-04.03.52:957][910]LogLoad: LoadMap: /Game/地圖/遊戲關卡
+[2020.09.03-04.03.52:957][910]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.03.52:986][910]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-04.03.52:987][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-04.03.53:003][910]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-04.03.53:025][910]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-04.03.53:064][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.09.03-04.03.53:126][910]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.03.53:132][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006985s)
+[2020.09.03-04.03.53:133][910]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-04.03.53:133][910]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.09.03-04.03.53:133][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007798s)
+[2020.09.03-04.03.53:133][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-04.03.53:138][910]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-12.03.53
+[2020.09.03-04.03.53:139][910]LogWorld: Bringing up level for play took: 0.004865
+[2020.09.03-04.03.53:141][910]LogLoad: Took 0.183946 seconds to LoadMap(/Game/地圖/UEDPIE_0_遊戲關卡)
+[2020.09.03-04.04.02:355][442]LogNet: Browse: /Game/地圖/遊戲關卡
+[2020.09.03-04.04.02:356][442]LogLoad: LoadMap: /Game/地圖/遊戲關卡
+[2020.09.03-04.04.02:356][442]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.04.02:356][442]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-04.04.02:357][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-04.04.02:369][442]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-04.04.02:389][442]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-04.04.02:427][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.09.03-04.04.02:428][442]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.04.02:436][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006963s)
+[2020.09.03-04.04.02:436][442]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-04.04.02:437][442]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.09.03-04.04.02:437][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.007757s)
+[2020.09.03-04.04.02:437][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-04.04.02:442][442]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-12.04.02
+[2020.09.03-04.04.02:442][442]LogWorld: Bringing up level for play took: 0.004717
+[2020.09.03-04.04.02:444][442]LogLoad: Took 0.088067 seconds to LoadMap(/Game/地圖/UEDPIE_0_遊戲關卡)
+[2020.09.03-04.04.03:664][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-04.04.03:670][522]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-04.04.03:691][522]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-04.04.03:691][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-04.04.03:691][522]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-04.04.03:706][522]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-04.04.03:710][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-04.04.03:710][522]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-04.04.03:712][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-04.04.03:717][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-04.04.03:723][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-04.04.03:756][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-04.04.03:781][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.09.03-04.04.03:794][523]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.09.03-04.04.05:876][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-04.04.05:910][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.09.03-04.04.05:953][759]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡1D7595204C5C8CDA913DBC97FF84FC6C.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-04.04.05:989][759]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-04.04.05:989][759]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
