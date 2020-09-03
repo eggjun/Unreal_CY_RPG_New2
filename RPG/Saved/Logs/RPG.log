@@ -1940,3 +1940,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-02.34.15:070][528]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡7506CE3E4917A8A5AD37B6B0FA834F07.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
 [2020.09.03-02.34.15:108][528]AssetCheck: New page: Asset Save: 遊戲關卡
 [2020.09.03-02.34.15:108][528]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-02.34.55:374][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-02.34.55:380][147]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面8B94DC09428A444B8893BE949860F832.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-02.34.55:394][147]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-02.34.55:394][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-02.34.56:424][229]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-02.36.56:957][440]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.37.05:558][457]LogSlate: Window 'Color Picker' being destroyed
+[2020.09.03-02.38.36:160][690]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-02.38.36:491][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.09.03-02.38.37:030][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-02.38.37:045][747]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面197E00AC400428957A79DE9620A1335B.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-02.38.37:058][747]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-02.38.37:058][747]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-02.39.02:218][759]LogEditorTransaction: Undo Rename Widget
+[2020.09.03-02.39.13:011][991]BlueprintLog: New page: Compile BW_結束畫面
+[2020.09.03-02.39.13:057][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.09.03-02.39.13:763][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BW_結束畫面" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset" SILENT=true
+[2020.09.03-02.39.13:774][ 73]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BW_結束畫面D000F76F418A8BD8A0BD0E8637E30BAA.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BW_結束畫面.uasset'
+[2020.09.03-02.39.13:786][ 73]AssetCheck: New page: Asset Save: BW_結束畫面
+[2020.09.03-02.39.13:786][ 73]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BW_結束畫面.BW_結束畫面
+[2020.09.03-02.39.15:486][258]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-02.39.15:804][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.09.03-02.39.16:157][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-02.39.16:211][286]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼4A815A5B4560E395FF61B886FBEB51C7.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-02.39.16:223][286]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-02.39.16:223][286]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-02.39.17:120][390]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-02.39.17:444][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.09.03-02.39.17:756][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.03-02.39.17:796][417]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍D15537A240D434CC00C9D7B7B299A4F6.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.03-02.39.17:807][417]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.03-02.39.17:807][417]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-02.39.18:781][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-02.39.18:825][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.09.03-02.39.18:872][528]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡31FDEF0A444E3FE3436C1383F3A23F5D.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-02.39.18:910][528]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-02.39.18:910][528]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
