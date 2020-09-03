@@ -3689,3 +3689,188 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.03-06.28.44:248][338]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼1939FB304728269AEDA605BE05CAA1CD.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
 [2020.09.03-06.28.44:258][338]AssetCheck: New page: Asset Save: BP_吸血鬼
 [2020.09.03-06.28.44:258][338]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-06.29.15:178][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-06.29.15:211][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.09.03-06.29.15:261][ 49]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡F72DFA01429EF95C28C33B97F6F46506.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-06.29.15:297][ 49]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-06.29.15:297][ 49]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-06.29.20:088][606]MapCheck: New page: Map Check
+[2020.09.03-06.29.20:098][606]LightingResults: New page: Lighting Build - 2020年9月3日 下午10:29:20
+[2020.09.03-06.29.20:715][606]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.03-06.29.21:015][606]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.03-06.29.21:128][606]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.03-06.29.24:705][606]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.03-06.29.24:705][606]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3060
+[2020.09.03-06.29.38:872][606]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.09.03-06.29.38:899][606]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.03-06.29.38:899][606]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.03-06.29.38:899][606]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.03-06.29.38:899][606]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.03-06.29.38:899][606]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.03-06.29.39:872][606]LogEditorBuildUtils: Build time 0:19
+[2020.09.03-06.29.39:884][606]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BrickFloor_Clean_Inst, compiling. 
+[2020.09.03-06.29.40:016][606]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.09.03-06.29.40:016][606]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.09.03-06.29.40:016][606]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BrickFloor_Clean_Inst, compiling. 
+[2020.09.03-06.29.40:059][606]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.09.03-06.29.40:059][606]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.09.03-06.29.40:070][607]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StoneWall_Inst, compiling. 
+[2020.09.03-06.29.40:082][607]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.09.03-06.29.40:082][607]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.09.03-06.29.40:082][607]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StoneWall_Inst, compiling. 
+[2020.09.03-06.29.40:126][607]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.09.03-06.29.40:126][607]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.09.03-06.29.40:138][608]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Edge_Stones_Inst, compiling. 
+[2020.09.03-06.29.40:152][608]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Edge_Stones_Inst, compiling. 
+[2020.09.03-06.29.40:199][609]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pillar_Inst, compiling. 
+[2020.09.03-06.29.40:210][609]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pillar_Inst, compiling. 
+[2020.09.03-06.29.40:251][610]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Doorway_Large_Right_Door_Inst, compiling. 
+[2020.09.03-06.29.40:262][610]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Doorway_Large_Right_Door_Inst, compiling. 
+[2020.09.03-06.29.40:278][611]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door_Hardware_Inst, compiling. 
+[2020.09.03-06.29.40:289][611]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door_Hardware_Inst, compiling. 
+[2020.09.03-06.29.40:308][612]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Large_Window_Half_Inst, compiling. 
+[2020.09.03-06.29.40:321][612]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Large_Window_Half_Inst, compiling. 
+[2020.09.03-06.29.40:337][613]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Doorway_Large_Left_Door_Inst, compiling. 
+[2020.09.03-06.29.40:353][613]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Doorway_Large_Left_Door_Inst, compiling. 
+[2020.09.03-06.29.40:409][614]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Decor_Inst, compiling. 
+[2020.09.03-06.29.40:427][614]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Decor_Inst, compiling. 
+[2020.09.03-06.29.40:456][615]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Skeleton_Dirty, compiling. 
+[2020.09.03-06.29.40:486][615]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Skeleton_Dirty, compiling. 
+[2020.09.03-06.29.40:521][616]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gargoyle_Inst, compiling. 
+[2020.09.03-06.29.40:537][616]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gargoyle_Inst, compiling. 
+[2020.09.03-06.29.40:565][617]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gargoyle_Stand_Inst, compiling. 
+[2020.09.03-06.29.40:597][617]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gargoyle_Stand_Inst, compiling. 
+[2020.09.03-06.29.40:624][618]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2020.09.03-06.29.40:624][618]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Table_Inst, compiling. 
+[2020.09.03-06.29.40:640][618]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2020.09.03-06.29.40:640][618]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.09.03-06.29.40:640][618]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Table_Inst, compiling. 
+[2020.09.03-06.29.40:655][619]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2020.09.03-06.29.40:666][619]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Cell_Door_Front_Inst, compiling. 
+[2020.09.03-06.29.40:683][619]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Cell_Door_Front_Inst, compiling. 
+[2020.09.03-06.29.40:703][620]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Cell_Side_Inst, compiling. 
+[2020.09.03-06.29.40:718][620]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Cell_Side_Inst, compiling. 
+[2020.09.03-06.29.40:731][621]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2020.09.03-06.29.40:740][621]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 28
+[2020.09.03-06.29.40:740][621]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Arch_Inst, compiling. 
+[2020.09.03-06.29.40:757][621]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Arch_Inst, compiling. 
+[2020.09.03-06.29.40:784][622]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.09.03-06.29.40:784][622]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.09.03-06.29.40:796][622]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Stairs_10_Inst, compiling. 
+[2020.09.03-06.29.40:810][622]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Stairs_10_Inst, compiling. 
+[2020.09.03-06.29.40:852][623]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gibbet_Cage_Inst, compiling. 
+[2020.09.03-06.29.40:868][623]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Gibbet_Cage_Inst, compiling. 
+[2020.09.03-06.29.40:897][624]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pots_Inst, compiling. 
+[2020.09.03-06.29.40:911][624]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pots_Inst, compiling. 
+[2020.09.03-06.29.40:940][625]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Torture_Chair_Inst, compiling. 
+[2020.09.03-06.29.40:954][625]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Torture_Chair_Inst, compiling. 
+[2020.09.03-06.29.40:990][626]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Stocks_Inst, compiling. 
+[2020.09.03-06.29.41:010][626]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Stocks_Inst, compiling. 
+[2020.09.03-06.29.41:036][627]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chains_Inst, compiling. 
+[2020.09.03-06.29.41:051][627]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chains_Inst, compiling. 
+[2020.09.03-06.29.41:078][628]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Coffin_Inst, compiling. 
+[2020.09.03-06.29.41:094][628]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Coffin_Inst, compiling. 
+[2020.09.03-06.29.41:120][629]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Torch_Inst, compiling. 
+[2020.09.03-06.29.41:135][629]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Torch_Inst, compiling. 
+[2020.09.03-06.29.41:172][630]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Half_Arch_Inst, compiling. 
+[2020.09.03-06.29.41:192][630]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Half_Arch_Inst, compiling. 
+[2020.09.03-06.29.41:220][631]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Candles_Inst, compiling. 
+[2020.09.03-06.29.41:238][631]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Candles_Inst, compiling. 
+[2020.09.03-06.29.41:268][632]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.09.03-06.29.41:286][632]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.09.03-06.29.44:827][634]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.09.03-06.29.45:410][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.03-06.29.52:260][ 67]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
+[2020.09.03-06.29.52:260][ 67]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
+[2020.09.03-06.29.52:260][ 67]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.03-06.29.54:708][290]Job is a success!
+[2020.09.03-06.29.54:907][291]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.063s
+[2020.09.03-06.29.54:907][291]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:          1: 80.0% covering 6.3% of volume
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.03-06.29.54:908][291]LogVolumetricLightmapImport:          遊戲關卡 			 5 bricks 	 100.0% (Persistent Level)
+[2020.09.03-06.29.55:350][291]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.09.03-06.29.55:350][291]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.09.03-06.29.55:350][291]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.09.03-06.29.55:350][291]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.09.03-06.29.55:678][291]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2020.09.03-06.29.55:678][291]Lightmass on M514-055: 6.30 sec total, 219 ms importing, 178 ms setup, 874 ms photons, 3.75 sec processing, 0 ms extra exporting [163/163 mappings]. Threads: 41.3 sec total, 26.8 sec processing.
+[2020.09.03-06.29.55:688][291]LogStaticLightingSystem: 遊戲關卡_BuiltData storing lightmap data for 163 meshes in 4 LightmapResourceClusters (40.8 Meshes per cluster).
+[2020.09.03-06.29.55:736][291]LogMaterial: Display: Material /Game/MedievalDungeon/Materials/M_Skeleton_Dirty.M_Skeleton_Dirty needed to have new flag set bUsedWithStaticLighting !
+[2020.09.03-06.29.55:740][291]LogMaterial: Display: Missing cached shader map for material M_Skeleton_Dirty, compiling. 
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.09.03-06.29.55:792][291]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.09.03-06.29.55:829][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.03-06.29.55:869][291]LogStaticLightingSystem: Illumination: 35.7 sec (376 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2020.09.03-06.29.55:869][291]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.09.03-06.29.55:870][291]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.09.03-06.29.56:896][291]DumpUnbuiltLightIteractions
+[2020.09.03-06.29.56:896][291]Lights with unbuilt interactions: 0
+[2020.09.03-06.29.56:896][291]
+[2020.09.03-06.29.56:896][291]Primitives with unbuilt interactions: 0
+[2020.09.03-06.29.57:309][292]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.03-06.29.57:309][292]MapCheck: New page: 遊戲關卡 - 2020年9月3日 下午10:29:57
+[2020.09.03-06.29.57:333][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 23.148ms to complete.
+[2020.09.03-06.30.09:428][742]LogSlate: Window 'Message Log' being destroyed
+[2020.09.03-06.30.09:432][742]LogSlate: Window 'Message Log' being destroyed
+[2020.09.03-06.30.10:947][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-06.30.10:979][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.09.03-06.30.11:032][918]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡6DF374614DD3CCCBC1CC4793DFB53A45.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-06.30.11:060][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-06.30.11:223][918]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltData124C107045DDF36227BE7CA2400989D2.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-06.30.11:237][918]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-06.30.11:237][918]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-06.30.11:237][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
+[2020.09.03-06.30.12:544][ 67]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-06.30.12:766][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.09.03-06.30.13:272][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.03-06.30.13:310][114]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍BCC9ADE44E1ED97C08FD4A8592043254.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.03-06.30.13:320][114]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.03-06.30.13:320][114]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-06.30.14:351][228]BlueprintLog: New page: Compile BA_殭屍
+[2020.09.03-06.30.14:545][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.03-06.30.14:954][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_殭屍" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset" SILENT=true
+[2020.09.03-06.30.14:979][271]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BA_殭屍A4EF93314AD90125B86FD9A23C3A9099.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset'
+[2020.09.03-06.30.14:989][271]AssetCheck: New page: Asset Save: BA_殭屍
+[2020.09.03-06.30.14:989][271]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-06.30.16:235][402]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-06.30.16:452][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.09.03-06.30.16:856][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-06.30.16:912][438]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼589F8E70452E3C172B3E6FB3D9D5AA36.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-06.30.16:922][438]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-06.30.16:922][438]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-06.30.18:180][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-06.30.18:215][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.09.03-06.30.18:267][581]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡7397E28A434BF7F93D1A61A60E780929.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-06.30.18:294][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-06.30.18:483][581]LogSavePackage: Moving 'F:/0830/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltData22DEFCF247355EA2FB2122B495418D77.tmp' to 'F:/0830/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-06.30.18:496][581]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-06.30.18:496][581]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-06.30.18:496][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
